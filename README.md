@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Vue.js</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Vue.js, PHP</strong>
 </p>
 
 <p align="left">

@@ -29,4 +29,10 @@
       src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&link=https://github.com/leandroslopes"
     />
   </a>
+  
+  <a href="https://account.servicenow.com/personal-data/11ecd1492/152ab7c88/540637b41/5ed118BNU/resume.html" alt="ServiceNow Profile - Now Creators">
+    <img 
+      src="https://img.shields.io/badge/-ServiceNow-B4D3C6?style=for-the-badge&logo=ServiceNow&logoColor=FFFFFF&link=https://account.servicenow.com/personal-data/11ecd1492/152ab7c88/540637b41/5ed118BNU/resume.html"
+    />
+  </a>
 </p>

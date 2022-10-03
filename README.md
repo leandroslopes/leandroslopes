@@ -35,7 +35,7 @@
  <ul>
   <li><a href="https://github.com/leandroslopes/curriculo" target="_blank" rel="noopener noreferrer" alt="Curriculum">Curriculum</a></li>
   <li><a href="https://leandroslopes.github.io/" target="_blank" rel="noopener noreferrer" alt="Site Portifolio">Site Portifolio</a></li>
-  <li><a href="https://whimsical-heliotrope-fa5284.netlify.app/#/" target="_blank" rel="noopener noreferrer" alt="My Test - CAEMA">My Test - CAEMA</a></li>
+  <li><a href="https://mytestcaema.netlify.app/#/" target="_blank" rel="noopener noreferrer" alt="My Test - CAEMA">My Test - CAEMA</a></li>
   <li><a href="https://leandroslopes.github.io/portlouis_contacts/" target="_blank" rel="noopener noreferrer" alt="Port Louis Contacts">Port Louis Contacts</a></li>
  </ul>
 </p>

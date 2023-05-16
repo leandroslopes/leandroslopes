@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  ☕ Skills: <strong>HTML, CSS, JavaScript, PHP, Vue.js, Vuetify, AngularJS, Bootstrap</strong>
+  ☕ Skills: <strong>Now Platform ServiceNow, HTML, CSS, JavaScript, PHP, Vue.js, Vuetify, AngularJS, Bootstrap</strong>
 </p>
 
 <p align="left">

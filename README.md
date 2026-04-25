@@ -14,20 +14,15 @@
 
 <br />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/programmer-leandrolopes" target="_blank" rel="noopener noreferrer" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF& link=https://www.linkedin.com/in/programmer-leandrolopes/"
-    />
-  </a>
+<div align="left">
 
-  <a href="https://github.com/leandroslopes" target="_blank" rel="noopener noreferrer" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&link=https://github.com/leandroslopes" />
-  </a>
-  
-  <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes" target="_blank" rel="noopener noreferrer" alt="ServiceNow Profile - Now Creators">
-    <img src="https://img.shields.io/badge/-ServiceNow-B4D3C6?style=for-the-badge&logo=ServiceNow&logoColor=FFFFFF&link=https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes" />
-  </a>
-</p> </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmer-leandrolopes)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroslopes)
+&nbsp;&nbsp;
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-032d42?style=for-the-badge&logo=servicenow&logoColor=white)](https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes)
+
+</div> </br>
 
 <p align="left">My Curriculum, Site Portifolio And Demo Projects:</p>
 
